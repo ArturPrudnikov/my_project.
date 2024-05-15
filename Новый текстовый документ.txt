@@ -1,0 +1,3 @@
+GRANT ALL PRIVILEGES ON wikidb.* TO 'mw-admin'@'localhost'IDENTIFIED BY 'SuperR00t';
+
+GRANT ALL PRIVILEGES ON wikidb.* TO 'mw-admin'@'localhost';
